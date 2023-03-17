@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <tr>
+      <td>
+        <div id="map" style="height: 600px; width:500px;"></div>
+      </td>
+      <td>
+        <div id="side_bar"></div>
+      </td>
+    </tr>
+  <input id="address" type="text" value="Palo Alto, CA"></input>
+  <input type="button" value="Search" onclick="codeAddress();"></input>
+  <div id="info"></div>
+  <script src="./main.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk"></script>
+  </body>
+</html>
