@@ -1,1268 +1,1262 @@
 {
-"Geral":[
- {
-  "Localidades": "Ágora pesquisa",
-  "Localização": "-22.88010025197394, -42.343205116566814"
- },
- {
-  "Localidades": "Engenho Grande",
-  "Localização": "-22.87768, -42.38359"
- },
- {
-  "Localidades": "Bicuíba",
-  "Localização": "-22.87461, -42.39268"
- },
- {
-  "Localidades": "Bonsucesso",
-  "Localização": "-22.87295, -42.427"
- },
- {
-  "Localidades": "Água Branca",
-  "Localização": "-22.89141, -42.423"
- },
- {
-  "Localidades": "Ipitangas",
-  "Localização": "-22.91026, -42.40785"
- },
- {
-  "Localidades": "Vilatur",
-  "Localização": "-22.92674, -42.41902"
- },
- {
-  "Localidades": "Bacaxá",
-  "Localização": "-22.89361, -42.46864"
- },
- {
-  "Localidades": "de Fátima",
-  "Localização": "-22.8946, -42.46079"
- },
- {
-  "Localidades": "Condado de Bacaxá",
-  "Localização": "-22.89114, -42.45959"
- },
- {
-  "Localidades": "Caixa d'água",
-  "Localização": "-22.89243, -42.45403"
- },
- {
-  "Localidades": "Asfalto velho",
-  "Localização": "-22.88949, -42.45467"
- },
- {
-  "Localidades": "Aterrado",
-  "Localização": "-22.89737, -42.46343"
- },
- {
-  "Localidades": "Raia",
-  "Localização": "-22.90001, -42.46302"
- },
- {
-  "Localidades": "Porto da Roça",
-  "Localização": "-22.90288, -42.47141"
- },
- {
-  "Localidades": "Mombaça",
-  "Localização": "-22.90227, -42.54931"
- },
- {
-  "Localidades": "Barreira",
-  "Localização": "-22.89483, -42.47226"
- },
- {
-  "Localidades": "Verde Vale",
-  "Localização": "-22.90004, -42.47877"
- },
- {
-  "Localidades": "São Geraldo",
-  "Localização": "-22.88893, -42.47614"
- },
- {
-  "Localidades": "Parque Marina",
-  "Localização": "-22.88788, -42.47945"
- },
- {
-  "Localidades": "Madressilva",
-  "Localização": "-22.88904, -42.49584"
- },
- {
-  "Localidades": "Retiro",
-  "Localização": "-22.88166, -42.45599"
- },
- {
-  "Localidades": "Rio da Areia",
-  "Localização": "-22.87474, -42.46509"
- },
- {
-  "Localidades": "Palmital",
-  "Localização": "-22.84788, -42.45906"
- },
- {
-  "Localidades": "Rio Seco",
-  "Localização": "-22.85969, -42.49692"
- },
- {
-  "Localidades": "Alvorada",
-  "Localização": "-22.86469, -42.50806"
- },
- {
-  "Localidades": "Rio Mole",
-  "Localização": "-22.84971, -42.55067"
- },
- {
-  "Localidades": "Porto da Roça l",
-  "Localização": "-22.91113, -42.47637"
- },
- {
-  "Localidades": "Guarani",
-  "Localização": "-22.91141, -42.46662"
- },
- {
-  "Localidades": "Porto da Roça",
-  "Localização": "-22.91421, -42.46025"
- },
- {
-  "Localidades": "Leigos",
-  "Localização": "-22.9244, -42.47428"
- },
- {
-  "Localidades": "Porto Novo",
-  "Localização": "-22.92623, -42.48598"
- },
- {
-  "Localidades": "Itaúna",
-  "Localização": "-22.93397, -42.48661"
- },
- {
-  "Localidades": "Centro",
-  "Localização": "-22.93357, -42.49547"
- },
- {
-  "Localidades": "Areal",
-  "Localização": "-22.92677, -42.50501"
- },
- {
-  "Localidades": "Jardim",
-  "Localização": "-22.91643, -42.51568"
- },
- {
-  "Localidades": "Gravatá",
-  "Localização": "-22.93138, -42.50816"
- },
- {
-  "Localidades": "Boqueirão",
-  "Localização": "-22.92815, -42.52889"
- },
- {
-  "Localidades": "Coqueiral",
-  "Localização": "-22.92973, -42.5387"
- },
- {
-  "Localidades": "Barra Nova",
-  "Localização": "-22.93049, -42.55463"
- },
- {
-  "Localidades": "Jaconé 1",
-  "Localização": "-22.92729, -42.59456"
- },
- {
-  "Localidades": "Jaconé 2",
-  "Localização": "-22.93077, -42.61898"
- },
- {
-  "Localidades": "Jaconé 3",
-  "Localização": "-22.92067, -42.59534"
- },
- {
-  "Localidades": "Sampaio Correia",
-  "Localização": "-22.86227, -42.59995"
- },
- {
-  "Localidades": "Basileia",
-  "Localização": "-22.8668, -42.59367"
- },
- {
-  "Localidades": "UBS Engenho Grande",
-  "Localização": "-22.86687, -42.38217"
- },
- {
-  "Localidades": "ESF Bicuíba",
-  "Localização": "-22.86655, -42.40563"
- },
- {
-  "Localidades": "ESF Bonsucesso",
-  "Localização": "-22.88292, -42.43878"
- },
- {
-  "Localidades": "ESF Água Branca",
-  "Localização": "-22.88617, -42.43578"
- },
- {
-  "Localidades": "ESF Bacaxá",
-  "Localização": "-22.8937, -42.45768"
- },
- {
-  "Localidades": "ESF Rio D’Areia",
-  "Localização": "-22.87458, -42.46493"
- },
- {
-  "Localidades": "ESF Saquarema",
-  "Localização": "-22.93346, -42.49641"
- },
- {
-  "Localidades": "ESF Barreira",
-  "Localização": "-22.89294, -42.49274"
- },
- {
-  "Localidades": "ESF Barra Nova",
-  "Localização": "-22.92882, -42.56421"
- },
- {
-  "Localidades": "ESF Jaconé",
-  "Localização": "-22.92445, -42.59393"
- },
- {
-  "Localidades": "ESF Mombaça",
-  "Localização": "-22.90587, -42.55356"
- },
- {
-  "Localidades": "ESF Palmital",
-  "Localização": "-22.84045, -42.44719"
- },
- {
-  "Localidades": "ESF Rio Mole",
-  "Localização": "-22.85297, -42.5502"
- },
- {
-  "Localidades": "ESF Rio Seco",
-  "Localização": "-22.85743, -42.49566"
- },
- {
-  "Localidades": "ESF Sampaio Corrêa",
-  "Localização": "-22.86692, -42.59256"
- },
- {
-  "Localidades": "ESF Vilatur",
-  "Localização": "-22.92998, -42.41241"
- },
- {
-  "Localidades": "ESF Palmital",
-  "Localização": "-22.86069, -42.46241"
- },
- {
-  "Localidades": "Clínica de Olhos Doutor Seródio",
-  "Localização": "-22.89468, -42.4697"
- },
- {
-  "Localidades": "Clinica Vascular",
-  "Localização": "-22.89479, -42.46896"
- },
- {
-  "Localidades": "Policlínica Municipal",
-  "Localização": "-22.89426, -42.47114"
- },
- {
-  "Localidades": "Clínica da Mulher\/ Odont. clinica 2º andar",
-  "Localização": "-22.90896, -42.47602"
- },
- {
-  "Localidades": "Posto de Urgência Saquarema",
-  "Localização": "-22.93164, -42.49874"
- },
- {
-  "Localidades": "Centro de Especialidades Odontológicas CEO",
-  "Localização": "-22.89413, -42.47117"
- },
- {
-  "Localidades": "POSTO DE URGENCIA DE JACONE",
-  "Localização": "-22.9251, -42.59442"
- },
- {
-  "Localidades": "P.U Sampaio Correia",
-  "Localização": "-22.86241, -42.59978"
- },
- {
-  "Localidades": "R. Adolfo Bravo, 197Hospital Municipal Porphírio Nunes de Azeredo",
-  "Localização": "-22.89524, -42.46703"
- },
- {
-  "Localidades": "CLINICA VETERINÁRIA PUBLICA - SAMPAIO CORREIA",
-  "Localização": "-22.87143, -42.61124"
- },
- {
-  "Localidades": "Laboratório Municipal de Análises Imunológicas",
-  "Localização": "-22.93299, -42.49744"
- },
- {
-  "Localidades": "SAD (Melhor em Casa)",
-  "Localização": "-22.8946, -42.46968"
- },
- {
-  "Localidades": "Central de Marcação",
-  "Localização": "-22.89523, -42.46729"
- },
- {
-  "Localidades": "Centro Municipal de Diagnóstico por Imagem Almerinda Rocha de Magalhães",
-  "Localização": "-22.89523, -42.46729"
- },
- {
-  "Localidades": "Centro de Atendimento Materno Infantil de Saquarema – CAMIS",
-  "Localização": "-22.93299, -42.4975"
- },
- {
-  "Localidades": "Centro de Atendimento IST \/ AIDS \/ Hepatites Virais (Casa Amarela)",
-  "Localização": "-22.89847, -42.4782"
- },
- {
-  "Localidades": "Centro Municipal de Reabilitação Prof.ª Dilma Coutinho da Silva",
-  "Localização": "-22.92862, -42.51283"
- },
- {
-  "Localidades": "Programa Diabetes",
-  "Localização": "-22.89527, -42.46801"
- },
- {
-  "Localidades": "E.M. Margarida Rosa de Amorim",
-  "Localização": "-22.90326, -42.46082"
- },
- {
-  "Localidades": "E.M. Orgé Ferreira dos Santos",
-  "Localização": "-22.93422, -42.48897"
- },
- {
-  "Localidades": "Escola Municipal Maria Luiza De Amorim Mendonça",
-  "Localização": "-22.85297, -42.5502"
- },
- {
-  "Localidades": "Escola Municipal Prefeito Walquides de Souza Lima",
-  "Localização": "-22.90005, -42.41503"
- },
- {
-  "Localidades": "Escola Municipal Professor Francisco Vignoli",
-  "Localização": "-22.871, -42.44045"
- },
- {
-  "Localidades": "E.M. Profª Maria de Lourdes Melo Paes Barreto",
-  "Localização": "-22.88954, -42.53063"
- },
- {
-  "Localidades": "Escola Municipal Professora Osiris Palmier da Veiga",
-  "Localização": "-22.929, -42.56151"
- },
- {
-  "Localidades": "E. M. Rubens de Lima Campos",
-  "Localização": "-22.86552, -42.4275"
- },
- {
-  "Localidades": "E. M. Sebastião Manoel dos Reis",
-  "Localização": "-22.85839, -42.49656"
- },
- {
-  "Localidades": "Escola Municipal Theófilo D'Ávila",
-  "Localização": "-22.91704, -42.47572"
- },
- {
-  "Localidades": "E. M. Valtemir José da Costa",
-  "Localização": "-22.8616, -42.40831"
- },
- {
-  "Localidades": "E.M. Vilatur",
-  "Localização": "-22.91709, -42.43807"
- },
- {
-  "Localidades": "Escola Municipal Ismênia de Barros Barroso",
-  "Localização": "-22.92086, -42.59525"
- },
- {
-  "Localidades": "E.M. Jurandir da Silva Melo",
-  "Localização": "-22.86721, -42.59619"
- },
- {
-  "Localidades": "E.M Luciana Santana Coutinho.",
-  "Localização": "-22.90561, -42.4702"
- },
- {
-  "Localidades": "Colégio Municipal Gustavo Campos da Silveira",
-  "Localização": "-22.9322, -42.50167"
- },
- {
-  "Localidades": "Colegio M.E. MENALDO CARLOS DE MAGALHÃES - 09M",
-  "Localização": "-22.89177, -42.45282"
- },
- {
-  "Localidades": "Centro Municipal de Educacao Padre Manuel.",
-  "Localização": "-22.90083, -42.47586"
- },
- {
-  "Localidades": "Casa Creche Dona Zildinha",
-  "Localização": "-22.87518, -42.41783"
- },
- {
-  "Localidades": "Casa Creche Elda Amorim da Silva",
-  "Localização": "-22.88761, -42.39037"
- },
- {
-  "Localidades": "Casa Creche Nazareth Rodrigues Moreira",
-  "Localização": "-22.87106, -42.46418"
- },
- {
-  "Localidades": "Casa Creche Odete Guimarães Santana",
-  "Localização": "-22.89593, -42.46839"
- },
- {
-  "Localidades": "Casa creche Sebastiana de Oliveira Bravo",
-  "Localização": "-22.8962, -42.48024"
- },
- {
-  "Localidades": "Casa Creche Tia Ione Pereira Raiz (E. M. Ione Pere",
-  "Localização": "-22.90883, -42.59666"
- },
- {
-  "Localidades": "Creche M. Bicuíba",
-  "Localização": "-22.86655, -42.40563"
- },
- {
-  "Localidades": "Creche Municipal Clementina Melo",
-  "Localização": "-22.89868, -42.46635"
- },
- {
-  "Localidades": "Creche Municipal Domiciana Monteiro dos Santos",
-  "Localização": "-22.92815, -42.52881"
- },
- {
-  "Localidades": "Creche Municipal Edilena Nunes da Costa",
-  "Localização": "-22.91394, -42.45932"
- },
- {
-  "Localidades": "Creche Municipal Nair Aguiar Da Silva",
-  "Localização": "-22.93009, -42.50072"
- },
- {
-  "Localidades": "Creche M. Profª. Maria Regina Martins Santos",
-  "Localização": "-22.88397, -42.46808"
- },
- {
-  "Localidades": "Creche M. Tia Juracy de Freitas Alves",
-  "Localização": "-22.88373, -42.48562"
- },
- {
-  "Localidades": "Creche M. Victória Azeredo da Silva",
-  "Localização": "-22.91607, -42.59501"
- },
- {
-  "Localidades": "CAIE - Centro de Apoio a Inclusao Escolar.",
-  "Localização": "-22.89475, -42.46896"
- },
- {
-  "Localidades": "Casa Creche Elda Amorim da Silva",
-  "Localização": "-22.88592, -42.44761"
- },
- {
-  "Localidades": "Creche M. Melchiades Carlos do Nascimento",
-  "Localização": "-22.87321, -42.45793"
- },
- {
-  "Localidades": "CRAS RAIA",
-  "Localização": "-22.89924, -42.46625"
- },
- {
-  "Localidades": "CRAS - RIO DA AREIA",
-  "Localização": "-22.87585, -42.46652"
- },
- {
-  "Localidades": "Cras_Jaconé",
-  "Localização": "-22.91772, -42.5961"
- },
- {
-  "Localidades": "Cras Basileia Sampaio Correia",
-  "Localização": "-22.86102, -42.59183"
- },
- {
-  "Localidades": "CRAS - BONSUCESSO (BACAXÁ)",
-  "Localização": "-22.87343, -42.42947"
- },
- {
-  "Localidades": "CREAS",
-  "Localização": "-22.90283, -42.47502"
- },
- {
-  "Localidades": "Praça Do Bem Estar",
-  "Localização": "-22.93026, -42.49708"
- },
- {
-  "Localidades": "Centro de Convivência de Idosos",
-  "Localização": "-22.93007, -42.4806"
- },
- {
-  "Localidades": "Centro dia",
-  "Localização": "-22.89199, -42.45285"
- }
-],
-"Bairros":[
- {
-  "ID_Pontos": 1,
-  "Subdivisão": "Empresa",
-  "Localidades": "Ágora pesquisa",
-  "Localização": "-22.88010025197394, -42.343205116566814"
- },
- {
-  "ID_Pontos": 2,
-  "Subdivisão": "Bairros RJ-106 eVilatur",
-  "Localidades": "Engenho Grande",
-  "Localização": "-22.87768, -42.38359"
- },
- {
-  "ID_Pontos": 3,
-  "Subdivisão": "Bairros RJ-106 eVilatur",
-  "Localidades": "Bicuíba",
-  "Localização": "-22.87768, -42.38359"
- },
- {
-  "ID_Pontos": 4,
-  "Subdivisão": "Bairros RJ-106 eVilatur",
-  "Localidades": "Bonsucesso",
-  "Localização": "-22.87295, -42.427"
- },
- {
-  "ID_Pontos": 5,
-  "Subdivisão": "Bairros RJ-106 eVilatur",
-  "Localidades": "Água Branca",
-  "Localização": "-22.89141, -42.423"
- },
- {
-  "ID_Pontos": 6,
-  "Subdivisão": "Bairros RJ-106 eVilatur",
-  "Localidades": "Ipitangas",
-  "Localização": "-22.91026, -42.40785"
- },
- {
-  "ID_Pontos": 7,
-  "Subdivisão": "Bairros RJ-106 eVilatur",
-  "Localidades": "Vilatur",
-  "Localização": "-22.92674, -42.41902"
- },
- {
-  "ID_Pontos": 8,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "Bacaxá",
-  "Localização": "-22.89361, -42.46864"
- },
- {
-  "ID_Pontos": 9,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "de Fátima",
-  "Localização": "-22.8946, -42.46079"
- },
- {
-  "ID_Pontos": 10,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "Condado de Bacaxá",
-  "Localização": "-22.89114, -42.45959"
- },
- {
-  "ID_Pontos": 11,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "Caixa d'água",
-  "Localização": "-22.89243, -42.45403"
- },
- {
-  "ID_Pontos": 12,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "Asfalto velho",
-  "Localização": "-22.88949, -42.45467"
- },
- {
-  "ID_Pontos": 13,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "Aterrado",
-  "Localização": "-22.89737, -42.46343"
- },
- {
-  "ID_Pontos": 14,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "Raia",
-  "Localização": "-22.90001, -42.46302"
- },
- {
-  "ID_Pontos": 15,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "Porto da Roça",
-  "Localização": "-22.90288, -42.47141"
- },
- {
-  "ID_Pontos": 16,
-  "Subdivisão": "Bairros Bacaxá Leste",
-  "Localidades": "Mombaça",
-  "Localização": "-22.90227, -42.54931"
- },
- {
-  "ID_Pontos": 17,
-  "Subdivisão": "Bairros Bacaxá Oeste",
-  "Localidades": "Barreira",
-  "Localização": "-22.89483, -42.47226"
- },
- {
-  "ID_Pontos": 18,
-  "Subdivisão": "Bairros Bacaxá Oeste",
-  "Localidades": "Verde Vale",
-  "Localização": "-22.90004, -42.47877"
- },
- {
-  "ID_Pontos": 19,
-  "Subdivisão": "Bairros Bacaxá Oeste",
-  "Localidades": "São Geraldo",
-  "Localização": "-22.88893, -42.47614"
- },
- {
-  "ID_Pontos": 20,
-  "Subdivisão": "Bairros Bacaxá Oeste",
-  "Localidades": "Parque Marina",
-  "Localização": "-22.88788, -42.47945"
- },
- {
-  "ID_Pontos": 21,
-  "Subdivisão": "Bairros Bacaxá Oeste",
-  "Localidades": "Madressilva",
-  "Localização": "-22.88904, -42.49584"
- },
- {
-  "ID_Pontos": 22,
-  "Subdivisão": "Bairros Bacaxá Interior",
-  "Localidades": "Retiro",
-  "Localização": "-22.88166, -42.45599"
- },
- {
-  "ID_Pontos": 23,
-  "Subdivisão": "Bairros Bacaxá Interior",
-  "Localidades": "Rio da Areia",
-  "Localização": "-22.87474, -42.46509"
- },
- {
-  "ID_Pontos": 24,
-  "Subdivisão": "Bairros Bacaxá Interior",
-  "Localidades": "Palmital",
-  "Localização": "-22.84788, -42.45906"
- },
- {
-  "ID_Pontos": 25,
-  "Subdivisão": "Bairros Bacaxá Interior",
-  "Localidades": "Rio Seco",
-  "Localização": "-22.85969, -42.49692"
- },
- {
-  "ID_Pontos": 26,
-  "Subdivisão": "Bairros Bacaxá Interior",
-  "Localidades": "Alvorada",
-  "Localização": "-22.86469, -42.50806"
- },
- {
-  "ID_Pontos": 27,
-  "Subdivisão": "Bairros Bacaxá Interior",
-  "Localidades": "Rio Mole",
-  "Localização": "-22.84971, -42.55067"
- },
- {
-  "ID_Pontos": 28,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Porto da Roça l",
-  "Localização": "-22.91113, -42.47637"
- },
- {
-  "ID_Pontos": 29,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Guarani",
-  "Localização": "-22.91141, -42.46662"
- },
- {
-  "ID_Pontos": 30,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Porto da Roça",
-  "Localização": "-22.91421, -42.46025"
- },
- {
-  "ID_Pontos": 31,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Leigos",
-  "Localização": "-22.9244, -42.47428"
- },
- {
-  "ID_Pontos": 32,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Porto Novo",
-  "Localização": "-22.92623, -42.48598"
- },
- {
-  "ID_Pontos": 33,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Itaúna",
-  "Localização": "-22.93397, -42.48661"
- },
- {
-  "ID_Pontos": 34,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Centro",
-  "Localização": "-22.93357, -42.49547"
- },
- {
-  "ID_Pontos": 35,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Areal",
-  "Localização": "-22.92677, -42.50501"
- },
- {
-  "ID_Pontos": 36,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Jardim",
-  "Localização": "-22.91643, -42.51568"
- },
- {
-  "ID_Pontos": 37,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Gravatá",
-  "Localização": "-22.93138, -42.50816"
- },
- {
-  "ID_Pontos": 38,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Boqueirão",
-  "Localização": "-22.92815, -42.52889"
- },
- {
-  "ID_Pontos": 39,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Coqueiral",
-  "Localização": "-22.92973, -42.5387"
- },
- {
-  "ID_Pontos": 40,
-  "Subdivisão": "Bairros Saquarema",
-  "Localidades": "Barra Nova",
-  "Localização": "-22.93049, -42.55463"
- },
- {
-  "ID_Pontos": 41,
-  "Subdivisão": "Bairros Jaconé",
-  "Localidades": "Jaconé 1",
-  "Localização": "-22.92729, -42.59456"
- },
- {
-  "ID_Pontos": 42,
-  "Subdivisão": "Bairros Jaconé",
-  "Localidades": "Jaconé 2",
-  "Localização": "-22.93077, -42.61898"
- },
- {
-  "ID_Pontos": 43,
-  "Subdivisão": "Bairros Jaconé",
-  "Localidades": "Jaconé 3",
-  "Localização": "-22.92067, -42.59534"
- },
- {
-  "ID_Pontos": 44,
-  "Subdivisão": "Bairros Jaconé",
-  "Localidades": "Sampaio Correia",
-  "Localização": "-22.86227, -42.59995"
- },
- {
-  "ID_Pontos": 45,
-  "Subdivisão": "Bairros Jaconé",
-  "Localidades": "Basileia",
-  "Localização": "-22.8668, -42.59367"
- }
-],
-"Saude":[
- {
-  "ID_Pontos": 1,
-  "Subdivisão": "Empresa",
-  "Localidades": "Ágora pesquisa",
-  "Localização": "-22.88010025197394, -42.343205116566814"
- },
- {
-  "ID_Pontos": 46,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "UBS Engenho Grande",
-  "Localização": "-22.86687, -42.38217"
- },
- {
-  "ID_Pontos": 47,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Bicuíba",
-  "Localização": "-22.86655, -42.40563"
- },
- {
-  "ID_Pontos": 48,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Bonsucesso",
-  "Localização": "-22.88292, -42.43878"
- },
- {
-  "ID_Pontos": 49,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Água Branca",
-  "Localização": "-22.88617, -42.43578"
- },
- {
-  "ID_Pontos": 50,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Bacaxá",
-  "Localização": "-22.8937, -42.45768"
- },
- {
-  "ID_Pontos": 51,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Rio D’Areia",
-  "Localização": "-22.87458, -42.46493"
- },
- {
-  "ID_Pontos": 52,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Saquarema",
-  "Localização": "-22.93346, -42.49641"
- },
- {
-  "ID_Pontos": 53,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Barreira",
-  "Localização": "-22.89294, -42.49274"
- },
- {
-  "ID_Pontos": 54,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Barra Nova",
-  "Localização": "-22.92882, -42.56421"
- },
- {
-  "ID_Pontos": 55,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Jaconé",
-  "Localização": "-22.92445, -42.59393"
- },
- {
-  "ID_Pontos": 56,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Mombaça",
-  "Localização": "-22.90587, -42.55356"
- },
- {
-  "ID_Pontos": 57,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Palmital",
-  "Localização": "-22.84045, -42.44719"
- },
- {
-  "ID_Pontos": 58,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Rio Mole",
-  "Localização": "-22.85297, -42.5502"
- },
- {
-  "ID_Pontos": 59,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Rio Seco",
-  "Localização": "-22.85743, -42.49566"
- },
- {
-  "ID_Pontos": 60,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Sampaio Corrêa",
-  "Localização": "-22.86692, -42.59256"
- },
- {
-  "ID_Pontos": 61,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Vilatur",
-  "Localização": "-22.92998, -42.41241"
- },
- {
-  "ID_Pontos": 62,
-  "Subdivisão": "ESF-Saúde",
-  "Localidades": "ESF Palmital",
-  "Localização": "-22.86069, -42.46241"
- },
- {
-  "ID_Pontos": 63,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "Clínica de Olhos Doutor Seródio",
-  "Localização": "-22.89468, -42.4697"
- },
- {
-  "ID_Pontos": 64,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "Clinica Vascular",
-  "Localização": "-22.89479, -42.46896"
- },
- {
-  "ID_Pontos": 65,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "Policlínica Municipal",
-  "Localização": "-22.89426, -42.47114"
- },
- {
-  "ID_Pontos": 66,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "Clínica da Mulher\/ Odont. clinica 2º andar",
-  "Localização": "-22.90896, -42.47602"
- },
- {
-  "ID_Pontos": 67,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "Posto de Urgência Saquarema",
-  "Localização": "-22.93164, -42.49874"
- },
- {
-  "ID_Pontos": 68,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "Centro de Especialidades Odontológicas CEO",
-  "Localização": "-22.89413, -42.47117"
- },
- {
-  "ID_Pontos": 69,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "POSTO DE URGENCIA DE JACONE",
-  "Localização": "-22.9251, -42.59442"
- },
- {
-  "ID_Pontos": 70,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "P.U Sampaio Correia",
-  "Localização": "-22.86241, -42.59978"
- },
- {
-  "ID_Pontos": 71,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "R. Adolfo Bravo, 197Hospital Municipal Porphírio Nunes de Azeredo",
-  "Localização": "-22.89524, -42.46703"
- },
- {
-  "ID_Pontos": 72,
-  "Subdivisão": "Clínicas- Saúde",
-  "Localidades": "CLINICA VETERINÁRIA PUBLICA - SAMPAIO CORREIA",
-  "Localização": "-22.87143, -42.61124"
- },
- {
-  "ID_Pontos": 73,
-  "Subdivisão": "Centro de atendimento",
-  "Localidades": "Laboratório Municipal de Análises Imunológicas",
-  "Localização": "-22.93299, -42.49744"
- },
- {
-  "ID_Pontos": 74,
-  "Subdivisão": "Centro de atendimento",
-  "Localidades": "SAD (Melhor em Casa)",
-  "Localização": "-22.8946, -42.46968"
- },
- {
-  "ID_Pontos": 75,
-  "Subdivisão": "Centro de atendimento",
-  "Localidades": "Central de Marcação",
-  "Localização": "-22.89523, -42.46729"
- },
- {
-  "ID_Pontos": 76,
-  "Subdivisão": "Centro de atendimento",
-  "Localidades": "Centro Municipal de Diagnóstico por Imagem Almerinda Rocha de Magalhães",
-  "Localização": "-22.89523, -42.46729"
- },
- {
-  "ID_Pontos": 77,
-  "Subdivisão": "Centro de atendimento",
-  "Localidades": "Centro de Atendimento Materno Infantil de Saquarema – CAMIS",
-  "Localização": "-22.93299, -42.4975"
- },
- {
-  "ID_Pontos": 78,
-  "Subdivisão": "Centro de atendimento",
-  "Localidades": "Centro de Atendimento IST \/ AIDS \/ Hepatites Virais (Casa Amarela)",
-  "Localização": "-22.89847, -42.4782"
- },
- {
-  "ID_Pontos": 79,
-  "Subdivisão": "Centro de atendimento",
-  "Localidades": "Centro Municipal de Reabilitação Prof.ª Dilma Coutinho da Silva",
-  "Localização": "-22.92862, -42.51283"
- },
- {
-  "ID_Pontos": 80,
-  "Subdivisão": "Centro de atendimento",
-  "Localidades": "Programa Diabetes",
-  "Localização": "-22.89527, -42.46801"
- },
- {
-  "ID_Pontos": 118,
-  "Subdivisão": "CRAS",
-  "Localidades": "CRAS RAIA",
-  "Localização": "-22.89924, -42.46625"
- },
- {
-  "ID_Pontos": 119,
-  "Subdivisão": "CRAS",
-  "Localidades": "CRAS - RIO DA AREIA",
-  "Localização": "-22.87585, -42.46652"
- },
- {
-  "ID_Pontos": 120,
-  "Subdivisão": "CRAS",
-  "Localidades": "Cras_Jaconé",
-  "Localização": "-22.91772, -42.5961"
- },
- {
-  "ID_Pontos": 121,
-  "Subdivisão": "CRAS",
-  "Localidades": "Cras Basileia Sampaio Correia",
-  "Localização": "-22.86102, -42.59183"
- },
- {
-  "ID_Pontos": 122,
-  "Subdivisão": "CRAS",
-  "Localidades": "CRAS - BONSUCESSO (BACAXÁ)",
-  "Localização": "-22.87343, -42.42947"
- },
- {
-  "ID_Pontos": 123,
-  "Subdivisão": "CRAS",
-  "Localidades": "CREAS",
-  "Localização": "-22.90283, -42.47502"
- },
- {
-  "ID_Pontos": 124,
-  "Subdivisão": "CRAS",
-  "Localidades": "Praça Do Bem Estar",
-  "Localização": "-22.93026, -42.49708"
- },
- {
-  "ID_Pontos": 125,
-  "Subdivisão": "CRAS",
-  "Localidades": "Centro de Convivência de Idosos",
-  "Localização": "-22.93007, -42.4806"
- },
- {
-  "ID_Pontos": 126,
-  "Subdivisão": "CRAS",
-  "Localidades": "Centro dia",
-  "Localização": "-22.89199, -42.45285"
- }
-],
-"E.M":[
- {
-  "ID_Pontos": 1,
-  "Subdivisão": "Empresa",
-  "Localidades": "Ágora pesquisa",
-  "Localização": "-22.88010025197394, -42.343205116566814"
- },
- {
-  "ID_Pontos": 82,
-  "Subdivisão": "E.M",
-  "Localidades": "E.M. Orgé Ferreira dos Santos",
-  "Localização": "-22.93422, -42.48897"
- },
- {
-  "ID_Pontos": 83,
-  "Subdivisão": "E.M",
-  "Localidades": "Escola Municipal Maria Luiza De Amorim Mendonça",
-  "Localização": "-22.85297, -42.5502"
- },
- {
-  "ID_Pontos": 84,
-  "Subdivisão": "E.M",
-  "Localidades": "Escola Municipal Prefeito Walquides de Souza Lima",
-  "Localização": "-22.90005, -42.41503"
- },
- {
-  "ID_Pontos": 85,
-  "Subdivisão": "E.M",
-  "Localidades": "Escola Municipal Professor Francisco Vignoli",
-  "Localização": "-22.871, -42.44045"
- },
- {
-  "ID_Pontos": 86,
-  "Subdivisão": "E.M",
-  "Localidades": "E.M. Profª Maria de Lourdes Melo Paes Barreto",
-  "Localização": "-22.88954, -42.53063"
- },
- {
-  "ID_Pontos": 87,
-  "Subdivisão": "E.M",
-  "Localidades": "Escola Municipal Professora Osiris Palmier da Veiga",
-  "Localização": "-22.929, -42.56151"
- },
- {
-  "ID_Pontos": 88,
-  "Subdivisão": "E.M",
-  "Localidades": "E. M. Rubens de Lima Campos",
-  "Localização": "-22.86552, -42.4275"
- },
- {
-  "ID_Pontos": 89,
-  "Subdivisão": "E.M",
-  "Localidades": "E. M. Sebastião Manoel dos Reis",
-  "Localização": "-22.85839, -42.49656"
- },
- {
-  "ID_Pontos": 90,
-  "Subdivisão": "E.M",
-  "Localidades": "Escola Municipal Theófilo D'Ávila",
-  "Localização": "-22.91704, -42.47572"
- },
- {
-  "ID_Pontos": 91,
-  "Subdivisão": "E.M",
-  "Localidades": "E. M. Valtemir José da Costa",
-  "Localização": "-22.8616, -42.40831"
- },
- {
-  "ID_Pontos": 92,
-  "Subdivisão": "E.M",
-  "Localidades": "E.M. Vilatur",
-  "Localização": "-22.91709, -42.43807"
- },
- {
-  "ID_Pontos": 93,
-  "Subdivisão": "E.M",
-  "Localidades": "Escola Municipal Ismênia de Barros Barroso",
-  "Localização": "-22.92086, -42.59525"
- },
- {
-  "ID_Pontos": 94,
-  "Subdivisão": "E.M",
-  "Localidades": "Escola Municipal Ismênia de Barros Barroso",
-  "Localização": "-22.92086, -42.59525"
- },
- {
-  "ID_Pontos": 95,
-  "Subdivisão": "E.M",
-  "Localidades": "E.M. Jurandir da Silva Melo",
-  "Localização": "-22.86721, -42.59619"
- },
- {
-  "ID_Pontos": 96,
-  "Subdivisão": "E.M",
-  "Localidades": "E.M Luciana Santana Coutinho.",
-  "Localização": "-22.90561, -42.4702"
- },
- {
-  "ID_Pontos": 97,
-  "Subdivisão": "C.M",
-  "Localidades": "Colégio Municipal Gustavo Campos da Silveira",
-  "Localização": "-22.9322, -42.50167"
- },
- {
-  "ID_Pontos": 98,
-  "Subdivisão": "C.M",
-  "Localidades": "Colegio M.E. MENALDO CARLOS DE MAGALHÃES - 09M",
-  "Localização": "-22.89177, -42.45282"
- },
- {
-  "ID_Pontos": 99,
-  "Subdivisão": "C.M",
-  "Localidades": "Centro Municipal de Educacao Padre Manuel.",
-  "Localização": "-22.90083, -42.47586"
- },
- {
-  "ID_Pontos": 100,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Casa Creche Dona Zildinha",
-  "Localização": "-22.87518, -42.41783"
- },
- {
-  "ID_Pontos": 101,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Casa Creche Elda Amorim da Silva",
-  "Localização": "-22.88761, -42.39037"
- },
- {
-  "ID_Pontos": 102,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Casa Creche Nazareth Rodrigues Moreira",
-  "Localização": "-22.87106, -42.46418"
- },
- {
-  "ID_Pontos": 103,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Casa Creche Odete Guimarães Santana",
-  "Localização": "-22.89593, -42.46839"
- },
- {
-  "ID_Pontos": 104,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Casa creche Sebastiana de Oliveira Bravo",
-  "Localização": "-22.8962, -42.48024"
- },
- {
-  "ID_Pontos": 105,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Casa Creche Tia Ione Pereira Raiz (E. M. Ione Pere",
-  "Localização": "-22.90883, -42.59666"
- },
- {
-  "ID_Pontos": 106,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche M. Bicuíba",
-  "Localização": "-22.86655, -42.40563"
- },
- {
-  "ID_Pontos": 107,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche Municipal Clementina Melo",
-  "Localização": "-22.89868, -42.46635"
- },
- {
-  "ID_Pontos": 108,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche Municipal Domiciana Monteiro dos Santos",
-  "Localização": "-22.92815, -42.52881"
- },
- {
-  "ID_Pontos": 109,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche Municipal Edilena Nunes da Costa",
-  "Localização": "-22.91394, -42.45932"
- },
- {
-  "ID_Pontos": 110,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche Municipal Nair Aguiar Da Silva",
-  "Localização": "-22.93009, -42.50072"
- },
- {
-  "ID_Pontos": 111,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche Municipal Nair Aguiar Da Silva",
-  "Localização": "-22.93005, -42.50072"
- },
- {
-  "ID_Pontos": 112,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche M. Profª. Maria Regina Martins Santos",
-  "Localização": "-22.88397, -42.46808"
- },
- {
-  "ID_Pontos": 113,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche M. Tia Juracy de Freitas Alves",
-  "Localização": "-22.88373, -42.48562"
- },
- {
-  "ID_Pontos": 114,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche M. Victória Azeredo da Silva",
-  "Localização": "-22.91607, -42.59501"
- },
- {
-  "ID_Pontos": 115,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "CAIE - Centro de Apoio a Inclusao Escolar.",
-  "Localização": "-22.89475, -42.46896"
- },
- {
-  "ID_Pontos": 116,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Casa Creche Elda Amorim da Silva",
-  "Localização": "-22.88592, -42.44761"
- },
- {
-  "ID_Pontos": 117,
-  "Subdivisão": "Casa Creche",
-  "Localidades": "Creche M. Melchiades Carlos do Nascimento",
-  "Localização": "-22.87321, -42.45793"
- }
-]
+  "Geral": [
+    {
+      "Localidades": "Ágora pesquisa",
+      "Localização": "-22.88010025197394, -42.343205116566814"
+    },
+    {
+      "Localidades": "Engenho Grande",
+      "Localização": "-22.87768, -42.38359"
+    },
+    {
+      "Localidades": "Bicuíba",
+      "Localização": "-22.87461, -42.39268"
+    },
+    {
+      "Localidades": "Bonsucesso",
+      "Localização": "-22.87295, -42.427"
+    },
+    {
+      "Localidades": "Água Branca",
+      "Localização": "-22.89141, -42.423"
+    },
+    {
+      "Localidades": "Ipitangas",
+      "Localização": "-22.91026, -42.40785"
+    },
+    {
+      "Localidades": "Vilatur",
+      "Localização": "-22.92674, -42.41902"
+    },
+    {
+      "Localidades": "Bacaxá",
+      "Localização": "-22.89361, -42.46864"
+    },
+    {
+      "Localidades": "de Fátima",
+      "Localização": "-22.8946, -42.46079"
+    },
+    {
+      "Localidades": "Condado de Bacaxá",
+      "Localização": "-22.89114, -42.45959"
+    },
+    {
+      "Localidades": "Caixa d'água",
+      "Localização": "-22.89243, -42.45403"
+    },
+    {
+      "Localidades": "Asfalto velho",
+      "Localização": "-22.88949, -42.45467"
+    },
+    {
+      "Localidades": "Aterrado",
+      "Localização": "-22.89737, -42.46343"
+    },
+    {
+      "Localidades": "Raia",
+      "Localização": "-22.90001, -42.46302"
+    },
+    {
+      "Localidades": "Porto da Roça",
+      "Localização": "-22.90288, -42.47141"
+    },
+    {
+      "Localidades": "Mombaça",
+      "Localização": "-22.90227, -42.54931"
+    },
+    {
+      "Localidades": "Barreira",
+      "Localização": "-22.89483, -42.47226"
+    },
+    {
+      "Localidades": "Verde Vale",
+      "Localização": "-22.90004, -42.47877"
+    },
+    {
+      "Localidades": "São Geraldo",
+      "Localização": "-22.88893, -42.47614"
+    },
+    {
+      "Localidades": "Parque Marina",
+      "Localização": "-22.88788, -42.47945"
+    },
+    {
+      "Localidades": "Madressilva",
+      "Localização": "-22.88904, -42.49584"
+    },
+    {
+      "Localidades": "Retiro",
+      "Localização": "-22.88166, -42.45599"
+    },
+    {
+      "Localidades": "Rio da Areia",
+      "Localização": "-22.87474, -42.46509"
+    },
+    {
+      "Localidades": "Palmital",
+      "Localização": "-22.84788, -42.45906"
+    },
+    {
+      "Localidades": "Rio Seco",
+      "Localização": "-22.85969, -42.49692"
+    },
+    {
+      "Localidades": "Alvorada",
+      "Localização": "-22.86469, -42.50806"
+    },
+    {
+      "Localidades": "Rio Mole",
+      "Localização": "-22.84971, -42.55067"
+    },
+    {
+      "Localidades": "Porto da Roça l",
+      "Localização": "-22.91113, -42.47637"
+    },
+    {
+      "Localidades": "Guarani",
+      "Localização": "-22.91141, -42.46662"
+    },
+    {
+      "Localidades": "Porto da Roça",
+      "Localização": "-22.91421, -42.46025"
+    },
+    {
+      "Localidades": "Leigos",
+      "Localização": "-22.9244, -42.47428"
+    },
+    {
+      "Localidades": "Porto Novo",
+      "Localização": "-22.92623, -42.48598"
+    },
+    {
+      "Localidades": "Itaúna",
+      "Localização": "-22.93397, -42.48661"
+    },
+    {
+      "Localidades": "Centro",
+      "Localização": "-22.93357, -42.49547"
+    },
+    {
+      "Localidades": "Areal",
+      "Localização": "-22.92677, -42.50501"
+    },
+    {
+      "Localidades": "Jardim",
+      "Localização": "-22.91643, -42.51568"
+    },
+    {
+      "Localidades": "Gravatá",
+      "Localização": "-22.93138, -42.50816"
+    },
+    {
+      "Localidades": "Boqueirão",
+      "Localização": "-22.92815, -42.52889"
+    },
+    {
+      "Localidades": "Coqueiral",
+      "Localização": "-22.92973, -42.5387"
+    },
+    {
+      "Localidades": "Barra Nova",
+      "Localização": "-22.93049, -42.55463"
+    },
+    {
+      "Localidades": "Jaconé 1",
+      "Localização": "-22.92729, -42.59456"
+    },
+    {
+      "Localidades": "Jaconé 2",
+      "Localização": "-22.93077, -42.61898"
+    },
+    {
+      "Localidades": "Jaconé 3",
+      "Localização": "-22.92067, -42.59534"
+    },
+    {
+      "Localidades": "Sampaio Correia",
+      "Localização": "-22.86227, -42.59995"
+    },
+    {
+      "Localidades": "Basileia",
+      "Localização": "-22.8668, -42.59367"
+    },
+    {
+      "Localidades": "UBS Engenho Grande",
+      "Localização": "-22.86687, -42.38217"
+    },
+    {
+      "Localidades": "ESF Bicuíba",
+      "Localização": "-22.86655, -42.40563"
+    },
+    {
+      "Localidades": "ESF Bonsucesso",
+      "Localização": "-22.88292, -42.43878"
+    },
+    {
+      "Localidades": "ESF Água Branca",
+      "Localização": "-22.88617, -42.43578"
+    },
+    {
+      "Localidades": "ESF Bacaxá",
+      "Localização": "-22.8937, -42.45768"
+    },
+    {
+      "Localidades": "ESF Rio D’Areia",
+      "Localização": "-22.87458, -42.46493"
+    },
+    {
+      "Localidades": "ESF Saquarema",
+      "Localização": "-22.93346, -42.49641"
+    },
+    {
+      "Localidades": "ESF Barreira",
+      "Localização": "-22.89294, -42.49274"
+    },
+    {
+      "Localidades": "ESF Barra Nova",
+      "Localização": "-22.92882, -42.56421"
+    },
+    {
+      "Localidades": "ESF Jaconé",
+      "Localização": "-22.92445, -42.59393"
+    },
+    {
+      "Localidades": "ESF Mombaça",
+      "Localização": "-22.90587, -42.55356"
+    },
+    {
+      "Localidades": "ESF Palmital",
+      "Localização": "-22.84045, -42.44719"
+    },
+    {
+      "Localidades": "ESF Rio Mole",
+      "Localização": "-22.85297, -42.5502"
+    },
+    {
+      "Localidades": "ESF Rio Seco",
+      "Localização": "-22.85743, -42.49566"
+    },
+    {
+      "Localidades": "ESF Sampaio Corrêa",
+      "Localização": "-22.86692, -42.59256"
+    },
+    {
+      "Localidades": "ESF Vilatur",
+      "Localização": "-22.92998, -42.41241"
+    },
+    {
+      "Localidades": "ESF Palmital",
+      "Localização": "-22.86069, -42.46241"
+    },
+    {
+      "Localidades": "Clínica de Olhos Doutor Seródio",
+      "Localização": "-22.89468, -42.4697"
+    },
+    {
+      "Localidades": "Clinica Vascular",
+      "Localização": "-22.89479, -42.46896"
+    },
+    {
+      "Localidades": "Policlínica Municipal",
+      "Localização": "-22.89426, -42.47114"
+    },
+    {
+      "Localidades": "Clínica da Mulher/ Odont. clinica 2º andar",
+      "Localização": "-22.90896, -42.47602"
+    },
+    {
+      "Localidades": "Posto de Urgência Saquarema",
+      "Localização": "-22.93164, -42.49874"
+    },
+    {
+      "Localidades": "Centro de Especialidades Odontológicas CEO",
+      "Localização": "-22.89413, -42.47117"
+    },
+    {
+      "Localidades": "POSTO DE URGENCIA DE JACONE",
+      "Localização": "-22.9251, -42.59442"
+    },
+    {
+      "Localidades": "P.U Sampaio Correia",
+      "Localização": "-22.86241, -42.59978"
+    },
+    {
+      "Localidades": "R. Adolfo Bravo, 197Hospital Municipal Porphírio Nunes de Azeredo",
+      "Localização": "-22.89524, -42.46703"
+    },
+    {
+      "Localidades": "CLINICA VETERINÁRIA PUBLICA - SAMPAIO CORREIA",
+      "Localização": "-22.87143, -42.61124"
+    },
+    {
+      "Localidades": "Laboratório Municipal de Análises Imunológicas",
+      "Localização": "-22.93299, -42.49744"
+    },
+    {
+      "Localidades": "SAD (Melhor em Casa)",
+      "Localização": "-22.8946, -42.46968"
+    },
+    {
+      "Localidades": "Central de Marcação",
+      "Localização": "-22.89523, -42.46729"
+    },
+    {
+      "Localidades": "Centro Municipal de Diagnóstico por Imagem Almerinda Rocha de Magalhães",
+      "Localização": "-22.89523, -42.46729"
+    },
+    {
+      "Localidades": "Centro de Atendimento Materno Infantil de Saquarema – CAMIS",
+      "Localização": "-22.93299, -42.4975"
+    },
+    {
+      "Localidades": "Centro de Atendimento IST / AIDS / Hepatites Virais (Casa Amarela)",
+      "Localização": "-22.89847, -42.4782"
+    },
+    {
+      "Localidades": "Centro Municipal de Reabilitação Prof.ª Dilma Coutinho da Silva",
+      "Localização": "-22.92862, -42.51283"
+    },
+    {
+      "Localidades": "Programa Diabetes",
+      "Localização": "-22.89527, -42.46801"
+    },
+    {
+      "Localidades": "E.M. Margarida Rosa de Amorim",
+      "Localização": "-22.90326, -42.46082"
+    },
+    {
+      "Localidades": "E.M. Orgé Ferreira dos Santos",
+      "Localização": "-22.93422, -42.48897"
+    },
+    {
+      "Localidades": "Escola Municipal Maria Luiza De Amorim Mendonça",
+      "Localização": "-22.85297, -42.5502"
+    },
+    {
+      "Localidades": "Escola Municipal Prefeito Walquides de Souza Lima",
+      "Localização": "-22.90005, -42.41503"
+    },
+    {
+      "Localidades": "Escola Municipal Professor Francisco Vignoli",
+      "Localização": "-22.871, -42.44045"
+    },
+    {
+      "Localidades": "E.M. Profª Maria de Lourdes Melo Paes Barreto",
+      "Localização": "-22.88954, -42.53063"
+    },
+    {
+      "Localidades": "Escola Municipal Professora Osiris Palmier da Veiga",
+      "Localização": "-22.929, -42.56151"
+    },
+    {
+      "Localidades": "E. M. Rubens de Lima Campos",
+      "Localização": "-22.86552, -42.4275"
+    },
+    {
+      "Localidades": "E. M. Sebastião Manoel dos Reis",
+      "Localização": "-22.85839, -42.49656"
+    },
+    {
+      "Localidades": "Escola Municipal Theófilo D'Ávila",
+      "Localização": "-22.91704, -42.47572"
+    },
+    {
+      "Localidades": "E. M. Valtemir José da Costa",
+      "Localização": "-22.8616, -42.40831"
+    },
+    {
+      "Localidades": "E.M. Vilatur",
+      "Localização": "-22.91709, -42.43807"
+    },
+    {
+      "Localidades": "Escola Municipal Ismênia de Barros Barroso",
+      "Localização": "-22.92086, -42.59525"
+    },
+    {
+      "Localidades": "E.M. Jurandir da Silva Melo",
+      "Localização": "-22.86721, -42.59619"
+    },
+    {
+      "Localidades": "E.M Luciana Santana Coutinho.",
+      "Localização": "-22.90561, -42.4702"
+    },
+    {
+      "Localidades": "Colégio Municipal Gustavo Campos da Silveira",
+      "Localização": "-22.9322, -42.50167"
+    },
+    {
+      "Localidades": "Colegio M.E. MENALDO CARLOS DE MAGALHÃES - 09M",
+      "Localização": "-22.89177, -42.45282"
+    },
+    {
+      "Localidades": "Centro Municipal de Educacao Padre Manuel.",
+      "Localização": "-22.90083, -42.47586"
+    },
+    {
+      "Localidades": "Casa Creche Dona Zildinha",
+      "Localização": "-22.87518, -42.41783"
+    },
+    {
+      "Localidades": "Casa Creche Elda Amorim da Silva",
+      "Localização": "-22.88761, -42.39037"
+    },
+    {
+      "Localidades": "Casa Creche Nazareth Rodrigues Moreira",
+      "Localização": "-22.87106, -42.46418"
+    },
+    {
+      "Localidades": "Casa Creche Odete Guimarães Santana",
+      "Localização": "-22.89593, -42.46839"
+    },
+    {
+      "Localidades": "Casa creche Sebastiana de Oliveira Bravo",
+      "Localização": "-22.8962, -42.48024"
+    },
+    {
+      "Localidades": "Casa Creche Tia Ione Pereira Raiz (E. M. Ione Pere",
+      "Localização": "-22.90883, -42.59666"
+    },
+    {
+      "Localidades": "Creche M. Bicuíba",
+      "Localização": "-22.86655, -42.40563"
+    },
+    {
+      "Localidades": "Creche Municipal Clementina Melo",
+      "Localização": "-22.89868, -42.46635"
+    },
+    {
+      "Localidades": "Creche Municipal Domiciana Monteiro dos Santos",
+      "Localização": "-22.92815, -42.52881"
+    },
+    {
+      "Localidades": "Creche Municipal Edilena Nunes da Costa",
+      "Localização": "-22.91394, -42.45932"
+    },
+    {
+      "Localidades": "Creche Municipal Nair Aguiar Da Silva",
+      "Localização": "-22.93009, -42.50072"
+    },
+    {
+      "Localidades": "Creche M. Profª. Maria Regina Martins Santos",
+      "Localização": "-22.88397, -42.46808"
+    },
+    {
+      "Localidades": "Creche M. Tia Juracy de Freitas Alves",
+      "Localização": "-22.88373, -42.48562"
+    },
+    {
+      "Localidades": "Creche M. Victória Azeredo da Silva",
+      "Localização": "-22.91607, -42.59501"
+    },
+    {
+      "Localidades": "CAIE - Centro de Apoio a Inclusao Escolar.",
+      "Localização": "-22.89475, -42.46896"
+    },
+    {
+      "Localidades": "Casa Creche Elda Amorim da Silva",
+      "Localização": "-22.88592, -42.44761"
+    },
+    {
+      "Localidades": "Creche M. Melchiades Carlos do Nascimento",
+      "Localização": "-22.87321, -42.45793"
+    },
+    {
+      "Localidades": "CRAS RAIA",
+      "Localização": "-22.89924, -42.46625"
+    },
+    {
+      "Localidades": "CRAS - RIO DA AREIA",
+      "Localização": "-22.87585, -42.46652"
+    },
+    {
+      "Localidades": "Cras_Jaconé",
+      "Localização": "-22.91772, -42.5961"
+    },
+    {
+      "Localidades": "Cras Basileia Sampaio Correia",
+      "Localização": "-22.86102, -42.59183"
+    },
+    {
+      "Localidades": "CRAS - BONSUCESSO (BACAXÁ)",
+      "Localização": "-22.87343, -42.42947"
+    },
+    {
+      "Localidades": "CREAS",
+      "Localização": "-22.90283, -42.47502"
+    },
+    {
+      "Localidades": "Praça Do Bem Estar",
+      "Localização": "-22.93026, -42.49708"
+    },
+    {
+      "Localidades": "Centro de Convivência de Idosos",
+      "Localização": "-22.93007, -42.4806"
+    },
+    {
+      "Localidades": "Centro dia",
+      "Localização": "-22.89199, -42.45285"
+    },
+    {
+      "ID_Pontos": 1,
+      "Subdivisão": "Empresa",
+      "Localidades": "Ágora pesquisa",
+      "Localização": "-22.88010025197394, -42.343205116566814"
+    },
+    {
+      "ID_Pontos": 2,
+      "Subdivisão": "Bairros RJ-106 eVilatur",
+      "Localidades": "Engenho Grande",
+      "Localização": "-22.87768, -42.38359"
+    },
+    {
+      "ID_Pontos": 3,
+      "Subdivisão": "Bairros RJ-106 eVilatur",
+      "Localidades": "Bicuíba",
+      "Localização": "-22.87768, -42.38359"
+    },
+    {
+      "ID_Pontos": 4,
+      "Subdivisão": "Bairros RJ-106 eVilatur",
+      "Localidades": "Bonsucesso",
+      "Localização": "-22.87295, -42.427"
+    },
+    {
+      "ID_Pontos": 5,
+      "Subdivisão": "Bairros RJ-106 eVilatur",
+      "Localidades": "Água Branca",
+      "Localização": "-22.89141, -42.423"
+    },
+    {
+      "ID_Pontos": 6,
+      "Subdivisão": "Bairros RJ-106 eVilatur",
+      "Localidades": "Ipitangas",
+      "Localização": "-22.91026, -42.40785"
+    },
+    {
+      "ID_Pontos": 7,
+      "Subdivisão": "Bairros RJ-106 eVilatur",
+      "Localidades": "Vilatur",
+      "Localização": "-22.92674, -42.41902"
+    },
+    {
+      "ID_Pontos": 8,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "Bacaxá",
+      "Localização": "-22.89361, -42.46864"
+    },
+    {
+      "ID_Pontos": 9,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "de Fátima",
+      "Localização": "-22.8946, -42.46079"
+    },
+    {
+      "ID_Pontos": 10,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "Condado de Bacaxá",
+      "Localização": "-22.89114, -42.45959"
+    },
+    {
+      "ID_Pontos": 11,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "Caixa d'água",
+      "Localização": "-22.89243, -42.45403"
+    },
+    {
+      "ID_Pontos": 12,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "Asfalto velho",
+      "Localização": "-22.88949, -42.45467"
+    },
+    {
+      "ID_Pontos": 13,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "Aterrado",
+      "Localização": "-22.89737, -42.46343"
+    },
+    {
+      "ID_Pontos": 14,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "Raia",
+      "Localização": "-22.90001, -42.46302"
+    },
+    {
+      "ID_Pontos": 15,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "Porto da Roça",
+      "Localização": "-22.90288, -42.47141"
+    },
+    {
+      "ID_Pontos": 16,
+      "Subdivisão": "Bairros Bacaxá Leste",
+      "Localidades": "Mombaça",
+      "Localização": "-22.90227, -42.54931"
+    },
+    {
+      "ID_Pontos": 17,
+      "Subdivisão": "Bairros Bacaxá Oeste",
+      "Localidades": "Barreira",
+      "Localização": "-22.89483, -42.47226"
+    },
+    {
+      "ID_Pontos": 18,
+      "Subdivisão": "Bairros Bacaxá Oeste",
+      "Localidades": "Verde Vale",
+      "Localização": "-22.90004, -42.47877"
+    },
+    {
+      "ID_Pontos": 19,
+      "Subdivisão": "Bairros Bacaxá Oeste",
+      "Localidades": "São Geraldo",
+      "Localização": "-22.88893, -42.47614"
+    },
+    {
+      "ID_Pontos": 20,
+      "Subdivisão": "Bairros Bacaxá Oeste",
+      "Localidades": "Parque Marina",
+      "Localização": "-22.88788, -42.47945"
+    },
+    {
+      "ID_Pontos": 21,
+      "Subdivisão": "Bairros Bacaxá Oeste",
+      "Localidades": "Madressilva",
+      "Localização": "-22.88904, -42.49584"
+    },
+    {
+      "ID_Pontos": 22,
+      "Subdivisão": "Bairros Bacaxá Interior",
+      "Localidades": "Retiro",
+      "Localização": "-22.88166, -42.45599"
+    },
+    {
+      "ID_Pontos": 23,
+      "Subdivisão": "Bairros Bacaxá Interior",
+      "Localidades": "Rio da Areia",
+      "Localização": "-22.87474, -42.46509"
+    },
+    {
+      "ID_Pontos": 24,
+      "Subdivisão": "Bairros Bacaxá Interior",
+      "Localidades": "Palmital",
+      "Localização": "-22.84788, -42.45906"
+    },
+    {
+      "ID_Pontos": 25,
+      "Subdivisão": "Bairros Bacaxá Interior",
+      "Localidades": "Rio Seco",
+      "Localização": "-22.85969, -42.49692"
+    },
+    {
+      "ID_Pontos": 26,
+      "Subdivisão": "Bairros Bacaxá Interior",
+      "Localidades": "Alvorada",
+      "Localização": "-22.86469, -42.50806"
+    },
+    {
+      "ID_Pontos": 27,
+      "Subdivisão": "Bairros Bacaxá Interior",
+      "Localidades": "Rio Mole",
+      "Localização": "-22.84971, -42.55067"
+    },
+    {
+      "ID_Pontos": 28,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Porto da Roça l",
+      "Localização": "-22.91113, -42.47637"
+    },
+    {
+      "ID_Pontos": 29,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Guarani",
+      "Localização": "-22.91141, -42.46662"
+    },
+    {
+      "ID_Pontos": 30,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Porto da Roça",
+      "Localização": "-22.91421, -42.46025"
+    },
+    {
+      "ID_Pontos": 31,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Leigos",
+      "Localização": "-22.9244, -42.47428"
+    },
+    {
+      "ID_Pontos": 32,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Porto Novo",
+      "Localização": "-22.92623, -42.48598"
+    },
+    {
+      "ID_Pontos": 33,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Itaúna",
+      "Localização": "-22.93397, -42.48661"
+    },
+    {
+      "ID_Pontos": 34,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Centro",
+      "Localização": "-22.93357, -42.49547"
+    },
+    {
+      "ID_Pontos": 35,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Areal",
+      "Localização": "-22.92677, -42.50501"
+    },
+    {
+      "ID_Pontos": 36,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Jardim",
+      "Localização": "-22.91643, -42.51568"
+    },
+    {
+      "ID_Pontos": 37,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Gravatá",
+      "Localização": "-22.93138, -42.50816"
+    },
+    {
+      "ID_Pontos": 38,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Boqueirão",
+      "Localização": "-22.92815, -42.52889"
+    },
+    {
+      "ID_Pontos": 39,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Coqueiral",
+      "Localização": "-22.92973, -42.5387"
+    },
+    {
+      "ID_Pontos": 40,
+      "Subdivisão": "Bairros Saquarema",
+      "Localidades": "Barra Nova",
+      "Localização": "-22.93049, -42.55463"
+    },
+    {
+      "ID_Pontos": 41,
+      "Subdivisão": "Bairros Jaconé",
+      "Localidades": "Jaconé 1",
+      "Localização": "-22.92729, -42.59456"
+    },
+    {
+      "ID_Pontos": 42,
+      "Subdivisão": "Bairros Jaconé",
+      "Localidades": "Jaconé 2",
+      "Localização": "-22.93077, -42.61898"
+    },
+    {
+      "ID_Pontos": 43,
+      "Subdivisão": "Bairros Jaconé",
+      "Localidades": "Jaconé 3",
+      "Localização": "-22.92067, -42.59534"
+    },
+    {
+      "ID_Pontos": 44,
+      "Subdivisão": "Bairros Jaconé",
+      "Localidades": "Sampaio Correia",
+      "Localização": "-22.86227, -42.59995"
+    },
+    {
+      "ID_Pontos": 45,
+      "Subdivisão": "Bairros Jaconé",
+      "Localidades": "Basileia",
+      "Localização": "-22.8668, -42.59367"
+    },
+    {
+      "ID_Pontos": 1,
+      "Subdivisão": "Empresa",
+      "Localidades": "Ágora pesquisa",
+      "Localização": "-22.88010025197394, -42.343205116566814"
+    },
+    {
+      "ID_Pontos": 46,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "UBS Engenho Grande",
+      "Localização": "-22.86687, -42.38217"
+    },
+    {
+      "ID_Pontos": 47,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Bicuíba",
+      "Localização": "-22.86655, -42.40563"
+    },
+    {
+      "ID_Pontos": 48,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Bonsucesso",
+      "Localização": "-22.88292, -42.43878"
+    },
+    {
+      "ID_Pontos": 49,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Água Branca",
+      "Localização": "-22.88617, -42.43578"
+    },
+    {
+      "ID_Pontos": 50,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Bacaxá",
+      "Localização": "-22.8937, -42.45768"
+    },
+    {
+      "ID_Pontos": 51,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Rio D’Areia",
+      "Localização": "-22.87458, -42.46493"
+    },
+    {
+      "ID_Pontos": 52,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Saquarema",
+      "Localização": "-22.93346, -42.49641"
+    },
+    {
+      "ID_Pontos": 53,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Barreira",
+      "Localização": "-22.89294, -42.49274"
+    },
+    {
+      "ID_Pontos": 54,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Barra Nova",
+      "Localização": "-22.92882, -42.56421"
+    },
+    {
+      "ID_Pontos": 55,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Jaconé",
+      "Localização": "-22.92445, -42.59393"
+    },
+    {
+      "ID_Pontos": 56,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Mombaça",
+      "Localização": "-22.90587, -42.55356"
+    },
+    {
+      "ID_Pontos": 57,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Palmital",
+      "Localização": "-22.84045, -42.44719"
+    },
+    {
+      "ID_Pontos": 58,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Rio Mole",
+      "Localização": "-22.85297, -42.5502"
+    },
+    {
+      "ID_Pontos": 59,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Rio Seco",
+      "Localização": "-22.85743, -42.49566"
+    },
+    {
+      "ID_Pontos": 60,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Sampaio Corrêa",
+      "Localização": "-22.86692, -42.59256"
+    },
+    {
+      "ID_Pontos": 61,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Vilatur",
+      "Localização": "-22.92998, -42.41241"
+    },
+    {
+      "ID_Pontos": 62,
+      "Subdivisão": "ESF-Saúde",
+      "Localidades": "ESF Palmital",
+      "Localização": "-22.86069, -42.46241"
+    },
+    {
+      "ID_Pontos": 63,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "Clínica de Olhos Doutor Seródio",
+      "Localização": "-22.89468, -42.4697"
+    },
+    {
+      "ID_Pontos": 64,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "Clinica Vascular",
+      "Localização": "-22.89479, -42.46896"
+    },
+    {
+      "ID_Pontos": 65,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "Policlínica Municipal",
+      "Localização": "-22.89426, -42.47114"
+    },
+    {
+      "ID_Pontos": 66,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "Clínica da Mulher/ Odont. clinica 2º andar",
+      "Localização": "-22.90896, -42.47602"
+    },
+    {
+      "ID_Pontos": 67,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "Posto de Urgência Saquarema",
+      "Localização": "-22.93164, -42.49874"
+    },
+    {
+      "ID_Pontos": 68,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "Centro de Especialidades Odontológicas CEO",
+      "Localização": "-22.89413, -42.47117"
+    },
+    {
+      "ID_Pontos": 69,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "POSTO DE URGENCIA DE JACONE",
+      "Localização": "-22.9251, -42.59442"
+    },
+    {
+      "ID_Pontos": 70,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "P.U Sampaio Correia",
+      "Localização": "-22.86241, -42.59978"
+    },
+    {
+      "ID_Pontos": 71,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "R. Adolfo Bravo, 197Hospital Municipal Porphírio Nunes de Azeredo",
+      "Localização": "-22.89524, -42.46703"
+    },
+    {
+      "ID_Pontos": 72,
+      "Subdivisão": "Clínicas- Saúde",
+      "Localidades": "CLINICA VETERINÁRIA PUBLICA - SAMPAIO CORREIA",
+      "Localização": "-22.87143, -42.61124"
+    },
+    {
+      "ID_Pontos": 73,
+      "Subdivisão": "Centro de atendimento",
+      "Localidades": "Laboratório Municipal de Análises Imunológicas",
+      "Localização": "-22.93299, -42.49744"
+    },
+    {
+      "ID_Pontos": 74,
+      "Subdivisão": "Centro de atendimento",
+      "Localidades": "SAD (Melhor em Casa)",
+      "Localização": "-22.8946, -42.46968"
+    },
+    {
+      "ID_Pontos": 75,
+      "Subdivisão": "Centro de atendimento",
+      "Localidades": "Central de Marcação",
+      "Localização": "-22.89523, -42.46729"
+    },
+    {
+      "ID_Pontos": 76,
+      "Subdivisão": "Centro de atendimento",
+      "Localidades": "Centro Municipal de Diagnóstico por Imagem Almerinda Rocha de Magalhães",
+      "Localização": "-22.89523, -42.46729"
+    },
+    {
+      "ID_Pontos": 77,
+      "Subdivisão": "Centro de atendimento",
+      "Localidades": "Centro de Atendimento Materno Infantil de Saquarema – CAMIS",
+      "Localização": "-22.93299, -42.4975"
+    },
+    {
+      "ID_Pontos": 78,
+      "Subdivisão": "Centro de atendimento",
+      "Localidades": "Centro de Atendimento IST / AIDS / Hepatites Virais (Casa Amarela)",
+      "Localização": "-22.89847, -42.4782"
+    },
+    {
+      "ID_Pontos": 79,
+      "Subdivisão": "Centro de atendimento",
+      "Localidades": "Centro Municipal de Reabilitação Prof.ª Dilma Coutinho da Silva",
+      "Localização": "-22.92862, -42.51283"
+    },
+    {
+      "ID_Pontos": 80,
+      "Subdivisão": "Centro de atendimento",
+      "Localidades": "Programa Diabetes",
+      "Localização": "-22.89527, -42.46801"
+    },
+    {
+      "ID_Pontos": 118,
+      "Subdivisão": "CRAS",
+      "Localidades": "CRAS RAIA",
+      "Localização": "-22.89924, -42.46625"
+    },
+    {
+      "ID_Pontos": 119,
+      "Subdivisão": "CRAS",
+      "Localidades": "CRAS - RIO DA AREIA",
+      "Localização": "-22.87585, -42.46652"
+    },
+    {
+      "ID_Pontos": 120,
+      "Subdivisão": "CRAS",
+      "Localidades": "Cras_Jaconé",
+      "Localização": "-22.91772, -42.5961"
+    },
+    {
+      "ID_Pontos": 121,
+      "Subdivisão": "CRAS",
+      "Localidades": "Cras Basileia Sampaio Correia",
+      "Localização": "-22.86102, -42.59183"
+    },
+    {
+      "ID_Pontos": 122,
+      "Subdivisão": "CRAS",
+      "Localidades": "CRAS - BONSUCESSO (BACAXÁ)",
+      "Localização": "-22.87343, -42.42947"
+    },
+    {
+      "ID_Pontos": 123,
+      "Subdivisão": "CRAS",
+      "Localidades": "CREAS",
+      "Localização": "-22.90283, -42.47502"
+    },
+    {
+      "ID_Pontos": 124,
+      "Subdivisão": "CRAS",
+      "Localidades": "Praça Do Bem Estar",
+      "Localização": "-22.93026, -42.49708"
+    },
+    {
+      "ID_Pontos": 125,
+      "Subdivisão": "CRAS",
+      "Localidades": "Centro de Convivência de Idosos",
+      "Localização": "-22.93007, -42.4806"
+    },
+    {
+      "ID_Pontos": 126,
+      "Subdivisão": "CRAS",
+      "Localidades": "Centro dia",
+      "Localização": "-22.89199, -42.45285"
+    },
+    {
+      "ID_Pontos": 1,
+      "Subdivisão": "Empresa",
+      "Localidades": "Ágora pesquisa",
+      "Localização": "-22.88010025197394, -42.343205116566814"
+    },
+    {
+      "ID_Pontos": 82,
+      "Subdivisão": "E.M",
+      "Localidades": "E.M. Orgé Ferreira dos Santos",
+      "Localização": "-22.93422, -42.48897"
+    },
+    {
+      "ID_Pontos": 83,
+      "Subdivisão": "E.M",
+      "Localidades": "Escola Municipal Maria Luiza De Amorim Mendonça",
+      "Localização": "-22.85297, -42.5502"
+    },
+    {
+      "ID_Pontos": 84,
+      "Subdivisão": "E.M",
+      "Localidades": "Escola Municipal Prefeito Walquides de Souza Lima",
+      "Localização": "-22.90005, -42.41503"
+    },
+    {
+      "ID_Pontos": 85,
+      "Subdivisão": "E.M",
+      "Localidades": "Escola Municipal Professor Francisco Vignoli",
+      "Localização": "-22.871, -42.44045"
+    },
+    {
+      "ID_Pontos": 86,
+      "Subdivisão": "E.M",
+      "Localidades": "E.M. Profª Maria de Lourdes Melo Paes Barreto",
+      "Localização": "-22.88954, -42.53063"
+    },
+    {
+      "ID_Pontos": 87,
+      "Subdivisão": "E.M",
+      "Localidades": "Escola Municipal Professora Osiris Palmier da Veiga",
+      "Localização": "-22.929, -42.56151"
+    },
+    {
+      "ID_Pontos": 88,
+      "Subdivisão": "E.M",
+      "Localidades": "E. M. Rubens de Lima Campos",
+      "Localização": "-22.86552, -42.4275"
+    },
+    {
+      "ID_Pontos": 89,
+      "Subdivisão": "E.M",
+      "Localidades": "E. M. Sebastião Manoel dos Reis",
+      "Localização": "-22.85839, -42.49656"
+    },
+    {
+      "ID_Pontos": 90,
+      "Subdivisão": "E.M",
+      "Localidades": "Escola Municipal Theófilo D'Ávila",
+      "Localização": "-22.91704, -42.47572"
+    },
+    {
+      "ID_Pontos": 91,
+      "Subdivisão": "E.M",
+      "Localidades": "E. M. Valtemir José da Costa",
+      "Localização": "-22.8616, -42.40831"
+    },
+    {
+      "ID_Pontos": 92,
+      "Subdivisão": "E.M",
+      "Localidades": "E.M. Vilatur",
+      "Localização": "-22.91709, -42.43807"
+    },
+    {
+      "ID_Pontos": 93,
+      "Subdivisão": "E.M",
+      "Localidades": "Escola Municipal Ismênia de Barros Barroso",
+      "Localização": "-22.92086, -42.59525"
+    },
+    {
+      "ID_Pontos": 94,
+      "Subdivisão": "E.M",
+      "Localidades": "Escola Municipal Ismênia de Barros Barroso",
+      "Localização": "-22.92086, -42.59525"
+    },
+    {
+      "ID_Pontos": 95,
+      "Subdivisão": "E.M",
+      "Localidades": "E.M. Jurandir da Silva Melo",
+      "Localização": "-22.86721, -42.59619"
+    },
+    {
+      "ID_Pontos": 96,
+      "Subdivisão": "E.M",
+      "Localidades": "E.M Luciana Santana Coutinho.",
+      "Localização": "-22.90561, -42.4702"
+    },
+    {
+      "ID_Pontos": 97,
+      "Subdivisão": "C.M",
+      "Localidades": "Colégio Municipal Gustavo Campos da Silveira",
+      "Localização": "-22.9322, -42.50167"
+    },
+    {
+      "ID_Pontos": 98,
+      "Subdivisão": "C.M",
+      "Localidades": "Colegio M.E. MENALDO CARLOS DE MAGALHÃES - 09M",
+      "Localização": "-22.89177, -42.45282"
+    },
+    {
+      "ID_Pontos": 99,
+      "Subdivisão": "C.M",
+      "Localidades": "Centro Municipal de Educacao Padre Manuel.",
+      "Localização": "-22.90083, -42.47586"
+    },
+    {
+      "ID_Pontos": 100,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Casa Creche Dona Zildinha",
+      "Localização": "-22.87518, -42.41783"
+    },
+    {
+      "ID_Pontos": 101,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Casa Creche Elda Amorim da Silva",
+      "Localização": "-22.88761, -42.39037"
+    },
+    {
+      "ID_Pontos": 102,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Casa Creche Nazareth Rodrigues Moreira",
+      "Localização": "-22.87106, -42.46418"
+    },
+    {
+      "ID_Pontos": 103,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Casa Creche Odete Guimarães Santana",
+      "Localização": "-22.89593, -42.46839"
+    },
+    {
+      "ID_Pontos": 104,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Casa creche Sebastiana de Oliveira Bravo",
+      "Localização": "-22.8962, -42.48024"
+    },
+    {
+      "ID_Pontos": 105,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Casa Creche Tia Ione Pereira Raiz (E. M. Ione Pere",
+      "Localização": "-22.90883, -42.59666"
+    },
+    {
+      "ID_Pontos": 106,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche M. Bicuíba",
+      "Localização": "-22.86655, -42.40563"
+    },
+    {
+      "ID_Pontos": 107,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche Municipal Clementina Melo",
+      "Localização": "-22.89868, -42.46635"
+    },
+    {
+      "ID_Pontos": 108,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche Municipal Domiciana Monteiro dos Santos",
+      "Localização": "-22.92815, -42.52881"
+    },
+    {
+      "ID_Pontos": 109,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche Municipal Edilena Nunes da Costa",
+      "Localização": "-22.91394, -42.45932"
+    },
+    {
+      "ID_Pontos": 110,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche Municipal Nair Aguiar Da Silva",
+      "Localização": "-22.93009, -42.50072"
+    },
+    {
+      "ID_Pontos": 111,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche Municipal Nair Aguiar Da Silva",
+      "Localização": "-22.93005, -42.50072"
+    },
+    {
+      "ID_Pontos": 112,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche M. Profª. Maria Regina Martins Santos",
+      "Localização": "-22.88397, -42.46808"
+    },
+    {
+      "ID_Pontos": 113,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche M. Tia Juracy de Freitas Alves",
+      "Localização": "-22.88373, -42.48562"
+    },
+    {
+      "ID_Pontos": 114,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche M. Victória Azeredo da Silva",
+      "Localização": "-22.91607, -42.59501"
+    },
+    {
+      "ID_Pontos": 115,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "CAIE - Centro de Apoio a Inclusao Escolar.",
+      "Localização": "-22.89475, -42.46896"
+    },
+    {
+      "ID_Pontos": 116,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Casa Creche Elda Amorim da Silva",
+      "Localização": "-22.88592, -42.44761"
+    },
+    {
+      "ID_Pontos": 117,
+      "Subdivisão": "Casa Creche",
+      "Localidades": "Creche M. Melchiades Carlos do Nascimento",
+      "Localização": "-22.87321, -42.45793"
+    }
+  ]
 }
