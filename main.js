@@ -5,7 +5,7 @@ const BingMapsKey =
   "AnFS3v-4xXtTwePXNAP1cyE2AP3UnosaRI_fCvQZ3m4OM0WSUSPOQnEt3bSFPwDw";
 
 // const maxLength = data.Geral.length;
-let maxLength = 5;
+let maxLength = 3;
 let dict = {};
 let origem = [];
 let destino = [];
@@ -43,8 +43,6 @@ async function fetchTravelJSON(origin, destination, index) {
       { Distancia: tempo[index] },
     ];
 
-    // console.log(dict);
-
     const nextLocation = data.Geral.findIndex(
       (l) => l.Localização === destino[index]
     );
@@ -76,14 +74,42 @@ async function getAllDistances(maxAmountOfStartLocations) {
   }
 }
 
-getAllDistances(maxLength).then(()=>{
-  // while (allDestination.length() != 0){
-  //   if(){
-      
-  //   }
-  // }
-  console.log(origem)
-  console.log(destino)
+getAllDistances(maxLength).then(() => {
+  // Fazer uma lista que ordena a proxima origem ser igual a o destino passado
+  let i = 0;
+  let j = 1;
+  let destinationOrder = [];
+
+  while (i < maxLength) {
+    if (
+      (origem[i] == destino[j] && destinationOrder.slice(-1) == destino[j]) ||
+      (origem[i] == destino[j] && destinationOrder.length == 0)
+    ) {
+      destinationOrder.push(destino[j]);
+      console.log(
+        `Esse é a origem ${origem[i]} e esse é o destino ${destino[i]}`
+      );
+      console.log(destinationOrder);
+      i += 1;
+    } else {
+      if (j < maxLength) {
+        j += 1;
+      } else {
+        if (i < maxLength) {
+          i += 1;
+        } else {
+          i = 0;
+          console.log(`iiiiiiiiiii ${i}`);
+        }
+        console.log(`jjjjjjjjjj ${j}`);
+        j = 0;
+      }
+    }
+  }
+  // console.log(dict);
+
+  // console.log(origem);
+  // console.log(destino);
 });
 
 // A URL do google aceita várias localidades
