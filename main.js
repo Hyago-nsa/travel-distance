@@ -5,7 +5,7 @@ const BingMapsKey =
   "AnFS3v-4xXtTwePXNAP1cyE2AP3UnosaRI_fCvQZ3m4OM0WSUSPOQnEt3bSFPwDw";
 
 // const maxLength = data.Geral.length;
-let maxLength = 3;
+let maxLength = 10;
 let dict = {};
 let origem = [];
 let destino = [];
@@ -37,11 +37,7 @@ async function fetchTravelJSON(origin, destination, index) {
 
     // console.log(`Origem ${index} é ${origem[index]}   O destino é ${destino[index]}   O tempo é ${tempo[index]}`)
 
-    dict[index] = [
-      { Origem: origem[index] },
-      { Destino: destino[index] },
-      { Distancia: tempo[index] },
-    ];
+    dict[index] = [origem[index], destino[index], tempo[index]];
 
     const nextLocation = data.Geral.findIndex(
       (l) => l.Localização === destino[index]
@@ -74,60 +70,51 @@ async function getAllDistances(maxAmountOfStartLocations) {
   }
 }
 
-getAllDistances(maxLength).then(() => {
-  // Fazer uma lista que ordena a proxima origem ser igual a o destino passado
-  let i = 0;
-  let j = 1;
-  let destinationOrder = [];
-
-  while (i < maxLength) {
-    if (
-      (origem[i] == destino[j] && destinationOrder.slice(-1) == destino[j]) ||
-      (origem[i] == destino[j] && destinationOrder.length == 0)
-    ) {
-      destinationOrder.push(destino[j]);
-      console.log(
-        `Esse é a origem ${origem[i]} e esse é o destino ${destino[i]}`
-      );
-      console.log(destinationOrder);
-      i += 1;
-    } else {
-      if (j < maxLength) {
-        j += 1;
-      } else {
-        if (i < maxLength) {
-          i += 1;
-        } else {
-          i = 0;
-          console.log(`iiiiiiiiiii ${i}`);
+getAllDistances(maxLength)
+  .then(() => {
+    fs.writeFile(
+      "C:/Codes/localização-gps/data/data.txt",
+      JSON.stringify(dict),
+      "utf8",
+      function (err) {
+        if (err) {
+          return console.log(err);
         }
-        console.log(`jjjjjjjjjj ${j}`);
-        j = 0;
+        console.log("The file was saved!");
+      }
+    );
+  })
+  .then(() => {
+    // para cada item no dict, print o index do item onde destino de um item é igual origem de outro item
+    const currentOrigin = dict[0][0];
+    const currentDestination = dict[0][1];
+    const locaisParaIr = [];
+
+    locaisParaIr.push(currentDestination);
+
+    console.log("Current Destination = " + currentDestination);
+    // console.log(destino.indexOf(currentOrigin));
+
+    for (const [key, value] of Object.entries(dict)) {
+      console.log(`Origem : ${value[0]}`);
+      console.log(`Destino: ${value[1]}`);
+
+      if (locaisParaIr.slice(-1) == value[0]) {
+        console.log("Achei");
+        locaisParaIr.push(currentDestination);
+        console.log("locais para ir = " + locaisParaIr);
       }
     }
-  }
-  // console.log(dict);
 
-  // console.log(origem);
-  // console.log(destino);
-});
+    // console.log(currentOrigin)
+    // console.log(currentDestination)
+  })
+  .then(() => {
+    console.log(locaisParaIr);
+  });
 
 // A URL do google aceita várias localidades
 // Criar uma string para ser usada
 
 // organizar para que a Origem do proximo trajeto seja igual ao Destino do trajeto passado;
 // começando pelo index 0
-
-// .then(() => {
-//   fs.writeFile(
-//     "C:/Codes/localização-gps/data/data.txt",
-//     JSON.stringify(dict),
-//     "utf8",
-//     function (err) {
-//       if (err) {
-//         return console.log(err);
-//       }
-//       console.log("The file was saved!");
-//     }
-//   );
-// });
