@@ -11,6 +11,7 @@ let origem = [];
 let destino = [];
 let destinoIndex = [];
 let tempo = [];
+let locaisParaIr = [];
 let shortDistance = 99999;
 let index = 0;
 
@@ -88,7 +89,6 @@ getAllDistances(maxLength)
     // para cada item no dict, print o index do item onde destino de um item é igual origem de outro item
     const currentOrigin = dict[0][0];
     const currentDestination = dict[0][1];
-    const locaisParaIr = [];
 
     locaisParaIr.push(currentDestination);
 
